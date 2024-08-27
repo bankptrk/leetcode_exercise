@@ -170,6 +170,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/bankptrk/leetcode_exercise/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/bankptrk/leetcode_exercise/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bankptrk/leetcode_exercise/tree/master/0145-binary-tree-postorder-traversal) |
+| [0225-implement-stack-using-queues](https://github.com/bankptrk/leetcode_exercise/tree/master/0225-implement-stack-using-queues) |
 ## Binary Search
 |  |
 | ------- |
@@ -296,4 +297,12 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/bankptrk/leetcode_exercise/tree/master/0215-kth-largest-element-in-an-array) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/bankptrk/leetcode_exercise/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/bankptrk/leetcode_exercise/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
