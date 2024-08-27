@@ -318,6 +318,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/bankptrk/leetcode_exercise/tree/master/0222-count-complete-tree-nodes) |
 | [0404-sum-of-left-leaves](https://github.com/bankptrk/leetcode_exercise/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/bankptrk/leetcode_exercise/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/bankptrk/leetcode_exercise/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -328,6 +329,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/bankptrk/leetcode_exercise/tree/master/0145-binary-tree-postorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/bankptrk/leetcode_exercise/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/bankptrk/leetcode_exercise/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/bankptrk/leetcode_exercise/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Binary Tree
 |  |
 | ------- |
@@ -341,6 +343,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/bankptrk/leetcode_exercise/tree/master/0222-count-complete-tree-nodes) |
 | [0404-sum-of-left-leaves](https://github.com/bankptrk/leetcode_exercise/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/bankptrk/leetcode_exercise/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/bankptrk/leetcode_exercise/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -349,6 +352,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/bankptrk/leetcode_exercise/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/bankptrk/leetcode_exercise/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0404-sum-of-left-leaves](https://github.com/bankptrk/leetcode_exercise/tree/master/0404-sum-of-left-leaves) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/bankptrk/leetcode_exercise/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Merge Sort
 |  |
 | ------- |
