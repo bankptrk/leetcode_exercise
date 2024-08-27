@@ -74,6 +74,7 @@
 | [0229-majority-element-ii](https://github.com/bankptrk/leetcode_exercise/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/bankptrk/leetcode_exercise/tree/master/0242-valid-anagram) |
 | [0380-insert-delete-getrandom-o1](https://github.com/bankptrk/leetcode_exercise/tree/master/0380-insert-delete-getrandom-o1) |
+| [0389-find-the-difference](https://github.com/bankptrk/leetcode_exercise/tree/master/0389-find-the-difference) |
 ## Math
 |  |
 | ------- |
@@ -172,6 +173,7 @@
 | [0171-excel-sheet-column-number](https://github.com/bankptrk/leetcode_exercise/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/bankptrk/leetcode_exercise/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/bankptrk/leetcode_exercise/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/bankptrk/leetcode_exercise/tree/master/0389-find-the-difference) |
 ## Trie
 |  |
 | ------- |
@@ -192,6 +194,7 @@
 | [0217-contains-duplicate](https://github.com/bankptrk/leetcode_exercise/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/bankptrk/leetcode_exercise/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/bankptrk/leetcode_exercise/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/bankptrk/leetcode_exercise/tree/master/0389-find-the-difference) |
 ## Stack
 |  |
 | ------- |
@@ -270,6 +273,7 @@
 | [0287-find-the-duplicate-number](https://github.com/bankptrk/leetcode_exercise/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/bankptrk/leetcode_exercise/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/bankptrk/leetcode_exercise/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/bankptrk/leetcode_exercise/tree/master/0389-find-the-difference) |
 ## Memoization
 |  |
 | ------- |
