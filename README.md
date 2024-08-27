@@ -100,6 +100,7 @@
 | [2245-destroying-asteroids](https://github.com/bankptrk/leetcode_exercise/tree/master/2245-destroying-asteroids) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/bankptrk/leetcode_exercise/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/bankptrk/leetcode_exercise/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/bankptrk/leetcode_exercise/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2872-largest-element-in-an-array-after-merge-operations](https://github.com/bankptrk/leetcode_exercise/tree/master/2872-largest-element-in-an-array-after-merge-operations) |
 ## Hash Table
 |  |
@@ -133,6 +134,7 @@
 | [1635-number-of-good-pairs](https://github.com/bankptrk/leetcode_exercise/tree/master/1635-number-of-good-pairs) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/bankptrk/leetcode_exercise/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/bankptrk/leetcode_exercise/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/bankptrk/leetcode_exercise/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## Math
 |  |
 | ------- |
@@ -524,6 +526,7 @@
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/bankptrk/leetcode_exercise/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/bankptrk/leetcode_exercise/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/bankptrk/leetcode_exercise/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/bankptrk/leetcode_exercise/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## Prefix Sum
 |  |
 | ------- |
