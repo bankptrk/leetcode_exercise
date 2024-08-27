@@ -240,6 +240,7 @@
 | [0782-jewels-and-stones](https://github.com/bankptrk/leetcode_exercise/tree/master/0782-jewels-and-stones) |
 | [0874-backspace-string-compare](https://github.com/bankptrk/leetcode_exercise/tree/master/0874-backspace-string-compare) |
 | [0889-buddy-strings](https://github.com/bankptrk/leetcode_exercise/tree/master/0889-buddy-strings) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/bankptrk/leetcode_exercise/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Trie
 |  |
 | ------- |
@@ -279,6 +280,7 @@
 | [0445-add-two-numbers-ii](https://github.com/bankptrk/leetcode_exercise/tree/master/0445-add-two-numbers-ii) |
 | [0735-asteroid-collision](https://github.com/bankptrk/leetcode_exercise/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/bankptrk/leetcode_exercise/tree/master/0874-backspace-string-compare) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/bankptrk/leetcode_exercise/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Binary Search
 |  |
 | ------- |
