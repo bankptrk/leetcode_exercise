@@ -386,6 +386,7 @@
 | [0789-kth-largest-element-in-a-stream](https://github.com/bankptrk/leetcode_exercise/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0904-leaf-similar-trees](https://github.com/bankptrk/leetcode_exercise/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/bankptrk/leetcode_exercise/tree/master/0975-range-sum-of-bst) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/bankptrk/leetcode_exercise/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -400,6 +401,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/bankptrk/leetcode_exercise/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0904-leaf-similar-trees](https://github.com/bankptrk/leetcode_exercise/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/bankptrk/leetcode_exercise/tree/master/0975-range-sum-of-bst) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/bankptrk/leetcode_exercise/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -419,6 +421,7 @@
 | [0789-kth-largest-element-in-a-stream](https://github.com/bankptrk/leetcode_exercise/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0904-leaf-similar-trees](https://github.com/bankptrk/leetcode_exercise/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/bankptrk/leetcode_exercise/tree/master/0975-range-sum-of-bst) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/bankptrk/leetcode_exercise/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -429,6 +432,7 @@
 | [0404-sum-of-left-leaves](https://github.com/bankptrk/leetcode_exercise/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/bankptrk/leetcode_exercise/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/bankptrk/leetcode_exercise/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/bankptrk/leetcode_exercise/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Merge Sort
 |  |
 | ------- |
