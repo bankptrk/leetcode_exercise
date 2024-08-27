@@ -100,6 +100,7 @@
 | [2245-destroying-asteroids](https://github.com/bankptrk/leetcode_exercise/tree/master/2245-destroying-asteroids) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/bankptrk/leetcode_exercise/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/bankptrk/leetcode_exercise/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2872-largest-element-in-an-array-after-merge-operations](https://github.com/bankptrk/leetcode_exercise/tree/master/2872-largest-element-in-an-array-after-merge-operations) |
 ## Hash Table
 |  |
 | ------- |
@@ -247,6 +248,7 @@
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/bankptrk/leetcode_exercise/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [2245-destroying-asteroids](https://github.com/bankptrk/leetcode_exercise/tree/master/2245-destroying-asteroids) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/bankptrk/leetcode_exercise/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2872-largest-element-in-an-array-after-merge-operations](https://github.com/bankptrk/leetcode_exercise/tree/master/2872-largest-element-in-an-array-after-merge-operations) |
 ## String
 |  |
 | ------- |
