@@ -57,6 +57,7 @@
 | [0303-range-sum-query-immutable](https://github.com/bankptrk/leetcode_exercise/tree/master/0303-range-sum-query-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/bankptrk/leetcode_exercise/tree/master/0334-increasing-triplet-subsequence) |
 | [0380-insert-delete-getrandom-o1](https://github.com/bankptrk/leetcode_exercise/tree/master/0380-insert-delete-getrandom-o1) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/bankptrk/leetcode_exercise/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -75,6 +76,7 @@
 | [0242-valid-anagram](https://github.com/bankptrk/leetcode_exercise/tree/master/0242-valid-anagram) |
 | [0380-insert-delete-getrandom-o1](https://github.com/bankptrk/leetcode_exercise/tree/master/0380-insert-delete-getrandom-o1) |
 | [0389-find-the-difference](https://github.com/bankptrk/leetcode_exercise/tree/master/0389-find-the-difference) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/bankptrk/leetcode_exercise/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Math
 |  |
 | ------- |
