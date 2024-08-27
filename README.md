@@ -64,6 +64,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/bankptrk/leetcode_exercise/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/bankptrk/leetcode_exercise/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/bankptrk/leetcode_exercise/tree/master/0643-maximum-average-subarray-i) |
+| [0792-binary-search](https://github.com/bankptrk/leetcode_exercise/tree/master/0792-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -250,6 +251,7 @@
 | [0287-find-the-duplicate-number](https://github.com/bankptrk/leetcode_exercise/tree/master/0287-find-the-duplicate-number) |
 | [0441-arranging-coins](https://github.com/bankptrk/leetcode_exercise/tree/master/0441-arranging-coins) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/bankptrk/leetcode_exercise/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0792-binary-search](https://github.com/bankptrk/leetcode_exercise/tree/master/0792-binary-search) |
 ## Backtracking
 |  |
 | ------- |
