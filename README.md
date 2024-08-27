@@ -25,6 +25,7 @@
 | [0053-maximum-subarray](https://github.com/bankptrk/leetcode_exercise/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/bankptrk/leetcode_exercise/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/bankptrk/leetcode_exercise/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/bankptrk/leetcode_exercise/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,6 +44,7 @@
 | [0013-roman-to-integer](https://github.com/bankptrk/leetcode_exercise/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/bankptrk/leetcode_exercise/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/bankptrk/leetcode_exercise/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/bankptrk/leetcode_exercise/tree/master/0066-plus-one) |
 | [0263-ugly-number](https://github.com/bankptrk/leetcode_exercise/tree/master/0263-ugly-number) |
 ## Linked List
 |  |
