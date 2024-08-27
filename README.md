@@ -145,6 +145,7 @@
 | [0234-palindrome-linked-list](https://github.com/bankptrk/leetcode_exercise/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/bankptrk/leetcode_exercise/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/bankptrk/leetcode_exercise/tree/master/0287-find-the-duplicate-number) |
+| [0344-reverse-string](https://github.com/bankptrk/leetcode_exercise/tree/master/0344-reverse-string) |
 ## Greedy
 |  |
 | ------- |
@@ -167,6 +168,7 @@
 | [0168-excel-sheet-column-title](https://github.com/bankptrk/leetcode_exercise/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/bankptrk/leetcode_exercise/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/bankptrk/leetcode_exercise/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/bankptrk/leetcode_exercise/tree/master/0344-reverse-string) |
 ## Trie
 |  |
 | ------- |
