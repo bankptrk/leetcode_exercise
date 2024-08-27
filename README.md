@@ -21,6 +21,7 @@
 | [0046-permutations](https://github.com/bankptrk/leetcode_exercise/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/bankptrk/leetcode_exercise/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/bankptrk/leetcode_exercise/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/bankptrk/leetcode_exercise/tree/master/0049-group-anagrams) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,6 +29,7 @@
 | [0012-integer-to-roman](https://github.com/bankptrk/leetcode_exercise/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/bankptrk/leetcode_exercise/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/bankptrk/leetcode_exercise/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/bankptrk/leetcode_exercise/tree/master/0049-group-anagrams) |
 ## Math
 |  |
 | ------- |
@@ -71,6 +73,7 @@
 | [0013-roman-to-integer](https://github.com/bankptrk/leetcode_exercise/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/bankptrk/leetcode_exercise/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/bankptrk/leetcode_exercise/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/bankptrk/leetcode_exercise/tree/master/0049-group-anagrams) |
 ## Trie
 |  |
 | ------- |
@@ -81,6 +84,7 @@
 | [0015-3sum](https://github.com/bankptrk/leetcode_exercise/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/bankptrk/leetcode_exercise/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/bankptrk/leetcode_exercise/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/bankptrk/leetcode_exercise/tree/master/0049-group-anagrams) |
 ## Stack
 |  |
 | ------- |
