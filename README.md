@@ -96,6 +96,7 @@
 | [0778-reorganize-string](https://github.com/bankptrk/leetcode_exercise/tree/master/0778-reorganize-string) |
 | [0782-jewels-and-stones](https://github.com/bankptrk/leetcode_exercise/tree/master/0782-jewels-and-stones) |
 | [0817-design-hashmap](https://github.com/bankptrk/leetcode_exercise/tree/master/0817-design-hashmap) |
+| [0889-buddy-strings](https://github.com/bankptrk/leetcode_exercise/tree/master/0889-buddy-strings) |
 ## Math
 |  |
 | ------- |
@@ -221,6 +222,7 @@
 | [0778-reorganize-string](https://github.com/bankptrk/leetcode_exercise/tree/master/0778-reorganize-string) |
 | [0782-jewels-and-stones](https://github.com/bankptrk/leetcode_exercise/tree/master/0782-jewels-and-stones) |
 | [0874-backspace-string-compare](https://github.com/bankptrk/leetcode_exercise/tree/master/0874-backspace-string-compare) |
+| [0889-buddy-strings](https://github.com/bankptrk/leetcode_exercise/tree/master/0889-buddy-strings) |
 ## Trie
 |  |
 | ------- |
