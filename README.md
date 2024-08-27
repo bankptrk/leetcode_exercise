@@ -124,6 +124,7 @@
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/bankptrk/leetcode_exercise/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/bankptrk/leetcode_exercise/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/bankptrk/leetcode_exercise/tree/master/1635-number-of-good-pairs) |
+| [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/bankptrk/leetcode_exercise/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 ## Math
 |  |
 | ------- |
@@ -232,6 +233,7 @@
 | [0778-reorganize-string](https://github.com/bankptrk/leetcode_exercise/tree/master/0778-reorganize-string) |
 | [0890-lemonade-change](https://github.com/bankptrk/leetcode_exercise/tree/master/0890-lemonade-change) |
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/bankptrk/leetcode_exercise/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
+| [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/bankptrk/leetcode_exercise/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 ## String
 |  |
 | ------- |
@@ -259,6 +261,7 @@
 | [0874-backspace-string-compare](https://github.com/bankptrk/leetcode_exercise/tree/master/0874-backspace-string-compare) |
 | [0889-buddy-strings](https://github.com/bankptrk/leetcode_exercise/tree/master/0889-buddy-strings) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/bankptrk/leetcode_exercise/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/bankptrk/leetcode_exercise/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 ## Trie
 |  |
 | ------- |
@@ -290,6 +293,7 @@
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/bankptrk/leetcode_exercise/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/bankptrk/leetcode_exercise/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/bankptrk/leetcode_exercise/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/bankptrk/leetcode_exercise/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 ## Stack
 |  |
 | ------- |
