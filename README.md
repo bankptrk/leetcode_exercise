@@ -88,6 +88,7 @@
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/bankptrk/leetcode_exercise/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/bankptrk/leetcode_exercise/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/bankptrk/leetcode_exercise/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
+| [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/bankptrk/leetcode_exercise/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1603-running-sum-of-1d-array](https://github.com/bankptrk/leetcode_exercise/tree/master/1603-running-sum-of-1d-array) |
 ## Hash Table
 |  |
@@ -282,6 +283,7 @@
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/bankptrk/leetcode_exercise/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/bankptrk/leetcode_exercise/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/bankptrk/leetcode_exercise/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
+| [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/bankptrk/leetcode_exercise/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 ## Stack
 |  |
 | ------- |
