@@ -64,6 +64,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/bankptrk/leetcode_exercise/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/bankptrk/leetcode_exercise/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/bankptrk/leetcode_exercise/tree/master/0643-maximum-average-subarray-i) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/bankptrk/leetcode_exercise/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0792-binary-search](https://github.com/bankptrk/leetcode_exercise/tree/master/0792-binary-search) |
 | [0817-design-hashmap](https://github.com/bankptrk/leetcode_exercise/tree/master/0817-design-hashmap) |
 ## Hash Table
@@ -184,6 +185,7 @@
 | [0134-gas-station](https://github.com/bankptrk/leetcode_exercise/tree/master/0134-gas-station) |
 | [0334-increasing-triplet-subsequence](https://github.com/bankptrk/leetcode_exercise/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/bankptrk/leetcode_exercise/tree/master/0455-assign-cookies) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/bankptrk/leetcode_exercise/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 ## String
 |  |
 | ------- |
@@ -293,6 +295,7 @@
 | [0338-counting-bits](https://github.com/bankptrk/leetcode_exercise/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/bankptrk/leetcode_exercise/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/bankptrk/leetcode_exercise/tree/master/0486-predict-the-winner) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/bankptrk/leetcode_exercise/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1013-fibonacci-number](https://github.com/bankptrk/leetcode_exercise/tree/master/1013-fibonacci-number) |
 ## Simulation
 |  |
