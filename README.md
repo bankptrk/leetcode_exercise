@@ -376,6 +376,7 @@
 | [0783-search-in-a-binary-search-tree](https://github.com/bankptrk/leetcode_exercise/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/bankptrk/leetcode_exercise/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0904-leaf-similar-trees](https://github.com/bankptrk/leetcode_exercise/tree/master/0904-leaf-similar-trees) |
+| [0975-range-sum-of-bst](https://github.com/bankptrk/leetcode_exercise/tree/master/0975-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -389,6 +390,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/bankptrk/leetcode_exercise/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/bankptrk/leetcode_exercise/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0904-leaf-similar-trees](https://github.com/bankptrk/leetcode_exercise/tree/master/0904-leaf-similar-trees) |
+| [0975-range-sum-of-bst](https://github.com/bankptrk/leetcode_exercise/tree/master/0975-range-sum-of-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -407,6 +409,7 @@
 | [0783-search-in-a-binary-search-tree](https://github.com/bankptrk/leetcode_exercise/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/bankptrk/leetcode_exercise/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0904-leaf-similar-trees](https://github.com/bankptrk/leetcode_exercise/tree/master/0904-leaf-similar-trees) |
+| [0975-range-sum-of-bst](https://github.com/bankptrk/leetcode_exercise/tree/master/0975-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -490,6 +493,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/bankptrk/leetcode_exercise/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/bankptrk/leetcode_exercise/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/bankptrk/leetcode_exercise/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0975-range-sum-of-bst](https://github.com/bankptrk/leetcode_exercise/tree/master/0975-range-sum-of-bst) |
 ## Database
 |  |
 | ------- |
