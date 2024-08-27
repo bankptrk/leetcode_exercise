@@ -55,6 +55,7 @@
 | [0287-find-the-duplicate-number](https://github.com/bankptrk/leetcode_exercise/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/bankptrk/leetcode_exercise/tree/master/0289-game-of-life) |
 | [0303-range-sum-query-immutable](https://github.com/bankptrk/leetcode_exercise/tree/master/0303-range-sum-query-immutable) |
+| [0334-increasing-triplet-subsequence](https://github.com/bankptrk/leetcode_exercise/tree/master/0334-increasing-triplet-subsequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -148,6 +149,7 @@
 | [0011-container-with-most-water](https://github.com/bankptrk/leetcode_exercise/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/bankptrk/leetcode_exercise/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/bankptrk/leetcode_exercise/tree/master/0134-gas-station) |
+| [0334-increasing-triplet-subsequence](https://github.com/bankptrk/leetcode_exercise/tree/master/0334-increasing-triplet-subsequence) |
 ## String
 |  |
 | ------- |
