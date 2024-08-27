@@ -292,6 +292,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/bankptrk/leetcode_exercise/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bankptrk/leetcode_exercise/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/bankptrk/leetcode_exercise/tree/master/0222-count-complete-tree-nodes) |
+| [0404-sum-of-left-leaves](https://github.com/bankptrk/leetcode_exercise/tree/master/0404-sum-of-left-leaves) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -300,6 +301,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/bankptrk/leetcode_exercise/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/bankptrk/leetcode_exercise/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bankptrk/leetcode_exercise/tree/master/0145-binary-tree-postorder-traversal) |
+| [0404-sum-of-left-leaves](https://github.com/bankptrk/leetcode_exercise/tree/master/0404-sum-of-left-leaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -311,6 +313,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/bankptrk/leetcode_exercise/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bankptrk/leetcode_exercise/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/bankptrk/leetcode_exercise/tree/master/0222-count-complete-tree-nodes) |
+| [0404-sum-of-left-leaves](https://github.com/bankptrk/leetcode_exercise/tree/master/0404-sum-of-left-leaves) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -318,6 +321,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/bankptrk/leetcode_exercise/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/bankptrk/leetcode_exercise/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/bankptrk/leetcode_exercise/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0404-sum-of-left-leaves](https://github.com/bankptrk/leetcode_exercise/tree/master/0404-sum-of-left-leaves) |
 ## Merge Sort
 |  |
 | ------- |
