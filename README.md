@@ -48,6 +48,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/bankptrk/leetcode_exercise/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/bankptrk/leetcode_exercise/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/bankptrk/leetcode_exercise/tree/master/0228-summary-ranges) |
+| [0229-majority-element-ii](https://github.com/bankptrk/leetcode_exercise/tree/master/0229-majority-element-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,6 +63,7 @@
 | [0169-majority-element](https://github.com/bankptrk/leetcode_exercise/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/bankptrk/leetcode_exercise/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/bankptrk/leetcode_exercise/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/bankptrk/leetcode_exercise/tree/master/0229-majority-element-ii) |
 ## Math
 |  |
 | ------- |
@@ -164,6 +166,7 @@
 | [0169-majority-element](https://github.com/bankptrk/leetcode_exercise/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bankptrk/leetcode_exercise/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/bankptrk/leetcode_exercise/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/bankptrk/leetcode_exercise/tree/master/0229-majority-element-ii) |
 ## Stack
 |  |
 | ------- |
@@ -282,6 +285,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/bankptrk/leetcode_exercise/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/bankptrk/leetcode_exercise/tree/master/0229-majority-element-ii) |
 ## Sliding Window
 |  |
 | ------- |
