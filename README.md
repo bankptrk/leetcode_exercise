@@ -397,6 +397,7 @@
 | [0904-leaf-similar-trees](https://github.com/bankptrk/leetcode_exercise/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/bankptrk/leetcode_exercise/tree/master/0975-range-sum-of-bst) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/bankptrk/leetcode_exercise/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/bankptrk/leetcode_exercise/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -413,6 +414,7 @@
 | [0975-range-sum-of-bst](https://github.com/bankptrk/leetcode_exercise/tree/master/0975-range-sum-of-bst) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/bankptrk/leetcode_exercise/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/bankptrk/leetcode_exercise/tree/master/1396-count-servers-that-communicate) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/bankptrk/leetcode_exercise/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -433,6 +435,7 @@
 | [0904-leaf-similar-trees](https://github.com/bankptrk/leetcode_exercise/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/bankptrk/leetcode_exercise/tree/master/0975-range-sum-of-bst) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/bankptrk/leetcode_exercise/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/bankptrk/leetcode_exercise/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -445,6 +448,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/bankptrk/leetcode_exercise/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/bankptrk/leetcode_exercise/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/bankptrk/leetcode_exercise/tree/master/1396-count-servers-that-communicate) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/bankptrk/leetcode_exercise/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Merge Sort
 |  |
 | ------- |
