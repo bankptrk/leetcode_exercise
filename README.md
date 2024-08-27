@@ -97,6 +97,7 @@
 | [0263-ugly-number](https://github.com/bankptrk/leetcode_exercise/tree/master/0263-ugly-number) |
 | [0342-power-of-four](https://github.com/bankptrk/leetcode_exercise/tree/master/0342-power-of-four) |
 | [0380-insert-delete-getrandom-o1](https://github.com/bankptrk/leetcode_exercise/tree/master/0380-insert-delete-getrandom-o1) |
+| [0412-fizz-buzz](https://github.com/bankptrk/leetcode_exercise/tree/master/0412-fizz-buzz) |
 ## Linked List
 |  |
 | ------- |
@@ -176,6 +177,7 @@
 | [0344-reverse-string](https://github.com/bankptrk/leetcode_exercise/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/bankptrk/leetcode_exercise/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/bankptrk/leetcode_exercise/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/bankptrk/leetcode_exercise/tree/master/0412-fizz-buzz) |
 ## Trie
 |  |
 | ------- |
@@ -262,6 +264,7 @@
 | [0054-spiral-matrix](https://github.com/bankptrk/leetcode_exercise/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/bankptrk/leetcode_exercise/tree/master/0067-add-binary) |
 | [0289-game-of-life](https://github.com/bankptrk/leetcode_exercise/tree/master/0289-game-of-life) |
+| [0412-fizz-buzz](https://github.com/bankptrk/leetcode_exercise/tree/master/0412-fizz-buzz) |
 ## Bit Manipulation
 |  |
 | ------- |
