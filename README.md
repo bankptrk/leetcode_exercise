@@ -92,6 +92,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/bankptrk/leetcode_exercise/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/bankptrk/leetcode_exercise/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/bankptrk/leetcode_exercise/tree/master/0560-subarray-sum-equals-k) |
+| [0778-reorganize-string](https://github.com/bankptrk/leetcode_exercise/tree/master/0778-reorganize-string) |
 | [0817-design-hashmap](https://github.com/bankptrk/leetcode_exercise/tree/master/0817-design-hashmap) |
 ## Math
 |  |
@@ -191,6 +192,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/bankptrk/leetcode_exercise/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/bankptrk/leetcode_exercise/tree/master/0455-assign-cookies) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/bankptrk/leetcode_exercise/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0778-reorganize-string](https://github.com/bankptrk/leetcode_exercise/tree/master/0778-reorganize-string) |
 ## String
 |  |
 | ------- |
@@ -213,6 +215,7 @@
 | [0459-repeated-substring-pattern](https://github.com/bankptrk/leetcode_exercise/tree/master/0459-repeated-substring-pattern) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/bankptrk/leetcode_exercise/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0742-to-lower-case](https://github.com/bankptrk/leetcode_exercise/tree/master/0742-to-lower-case) |
+| [0778-reorganize-string](https://github.com/bankptrk/leetcode_exercise/tree/master/0778-reorganize-string) |
 ## Trie
 |  |
 | ------- |
@@ -236,6 +239,7 @@
 | [0389-find-the-difference](https://github.com/bankptrk/leetcode_exercise/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/bankptrk/leetcode_exercise/tree/master/0455-assign-cookies) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/bankptrk/leetcode_exercise/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0778-reorganize-string](https://github.com/bankptrk/leetcode_exercise/tree/master/0778-reorganize-string) |
 ## Stack
 |  |
 | ------- |
@@ -398,6 +402,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/bankptrk/leetcode_exercise/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/bankptrk/leetcode_exercise/tree/master/0229-majority-element-ii) |
+| [0778-reorganize-string](https://github.com/bankptrk/leetcode_exercise/tree/master/0778-reorganize-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -417,6 +422,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/bankptrk/leetcode_exercise/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/bankptrk/leetcode_exercise/tree/master/0239-sliding-window-maximum) |
+| [0778-reorganize-string](https://github.com/bankptrk/leetcode_exercise/tree/master/0778-reorganize-string) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/bankptrk/leetcode_exercise/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Quickselect
 |  |
