@@ -68,6 +68,7 @@
 | [0724-find-pivot-index](https://github.com/bankptrk/leetcode_exercise/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/bankptrk/leetcode_exercise/tree/master/0735-asteroid-collision) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/bankptrk/leetcode_exercise/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0747-min-cost-climbing-stairs](https://github.com/bankptrk/leetcode_exercise/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/bankptrk/leetcode_exercise/tree/master/0792-binary-search) |
 | [0817-design-hashmap](https://github.com/bankptrk/leetcode_exercise/tree/master/0817-design-hashmap) |
 ## Hash Table
@@ -302,6 +303,7 @@
 | [0392-is-subsequence](https://github.com/bankptrk/leetcode_exercise/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/bankptrk/leetcode_exercise/tree/master/0486-predict-the-winner) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/bankptrk/leetcode_exercise/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0747-min-cost-climbing-stairs](https://github.com/bankptrk/leetcode_exercise/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/bankptrk/leetcode_exercise/tree/master/1013-fibonacci-number) |
 ## Simulation
 |  |
