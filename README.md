@@ -70,6 +70,7 @@
 | [0069-sqrtx](https://github.com/bankptrk/leetcode_exercise/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/bankptrk/leetcode_exercise/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/bankptrk/leetcode_exercise/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/bankptrk/leetcode_exercise/tree/master/0171-excel-sheet-column-number) |
 | [0263-ugly-number](https://github.com/bankptrk/leetcode_exercise/tree/master/0263-ugly-number) |
 ## Linked List
 |  |
@@ -129,6 +130,7 @@
 | [0125-valid-palindrome](https://github.com/bankptrk/leetcode_exercise/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/bankptrk/leetcode_exercise/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/bankptrk/leetcode_exercise/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/bankptrk/leetcode_exercise/tree/master/0171-excel-sheet-column-number) |
 ## Trie
 |  |
 | ------- |
