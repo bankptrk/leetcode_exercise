@@ -205,6 +205,7 @@
 | [0412-fizz-buzz](https://github.com/bankptrk/leetcode_exercise/tree/master/0412-fizz-buzz) |
 | [0459-repeated-substring-pattern](https://github.com/bankptrk/leetcode_exercise/tree/master/0459-repeated-substring-pattern) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/bankptrk/leetcode_exercise/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0742-to-lower-case](https://github.com/bankptrk/leetcode_exercise/tree/master/0742-to-lower-case) |
 ## Trie
 |  |
 | ------- |
