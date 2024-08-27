@@ -42,6 +42,7 @@
 | [0137-single-number-ii](https://github.com/bankptrk/leetcode_exercise/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/bankptrk/leetcode_exercise/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bankptrk/leetcode_exercise/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/bankptrk/leetcode_exercise/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -53,6 +54,7 @@
 | [0073-set-matrix-zeroes](https://github.com/bankptrk/leetcode_exercise/tree/master/0073-set-matrix-zeroes) |
 | [0138-copy-list-with-random-pointer](https://github.com/bankptrk/leetcode_exercise/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/bankptrk/leetcode_exercise/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/bankptrk/leetcode_exercise/tree/master/0169-majority-element) |
 ## Math
 |  |
 | ------- |
@@ -142,6 +144,7 @@
 | [0075-sort-colors](https://github.com/bankptrk/leetcode_exercise/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/bankptrk/leetcode_exercise/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/bankptrk/leetcode_exercise/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/bankptrk/leetcode_exercise/tree/master/0169-majority-element) |
 ## Stack
 |  |
 | ------- |
@@ -182,6 +185,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/bankptrk/leetcode_exercise/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/bankptrk/leetcode_exercise/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/bankptrk/leetcode_exercise/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -246,4 +250,8 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/bankptrk/leetcode_exercise/tree/master/0148-sort-list) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/bankptrk/leetcode_exercise/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
