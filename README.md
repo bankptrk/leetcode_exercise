@@ -41,6 +41,7 @@
 | [0136-single-number](https://github.com/bankptrk/leetcode_exercise/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/bankptrk/leetcode_exercise/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/bankptrk/leetcode_exercise/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/bankptrk/leetcode_exercise/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Hash Table
 |  |
 | ------- |
@@ -105,6 +106,7 @@
 | [0141-linked-list-cycle](https://github.com/bankptrk/leetcode_exercise/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/bankptrk/leetcode_exercise/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/bankptrk/leetcode_exercise/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/bankptrk/leetcode_exercise/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Greedy
 |  |
 | ------- |
@@ -155,6 +157,7 @@
 | [0074-search-a-2d-matrix](https://github.com/bankptrk/leetcode_exercise/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/bankptrk/leetcode_exercise/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/bankptrk/leetcode_exercise/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/bankptrk/leetcode_exercise/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Backtracking
 |  |
 | ------- |
