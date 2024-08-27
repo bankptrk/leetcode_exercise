@@ -81,6 +81,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/bankptrk/leetcode_exercise/tree/master/1046-max-consecutive-ones-iii) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/bankptrk/leetcode_exercise/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/bankptrk/leetcode_exercise/tree/master/1349-check-if-it-is-a-straight-line) |
+| [1396-count-servers-that-communicate](https://github.com/bankptrk/leetcode_exercise/tree/master/1396-count-servers-that-communicate) |
 ## Hash Table
 |  |
 | ------- |
@@ -319,6 +320,7 @@
 | [0073-set-matrix-zeroes](https://github.com/bankptrk/leetcode_exercise/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/bankptrk/leetcode_exercise/tree/master/0074-search-a-2d-matrix) |
 | [0289-game-of-life](https://github.com/bankptrk/leetcode_exercise/tree/master/0289-game-of-life) |
+| [1396-count-servers-that-communicate](https://github.com/bankptrk/leetcode_exercise/tree/master/1396-count-servers-that-communicate) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -406,6 +408,7 @@
 | [0904-leaf-similar-trees](https://github.com/bankptrk/leetcode_exercise/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/bankptrk/leetcode_exercise/tree/master/0975-range-sum-of-bst) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/bankptrk/leetcode_exercise/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1396-count-servers-that-communicate](https://github.com/bankptrk/leetcode_exercise/tree/master/1396-count-servers-that-communicate) |
 ## Binary Tree
 |  |
 | ------- |
@@ -437,6 +440,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/bankptrk/leetcode_exercise/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/bankptrk/leetcode_exercise/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/bankptrk/leetcode_exercise/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1396-count-servers-that-communicate](https://github.com/bankptrk/leetcode_exercise/tree/master/1396-count-servers-that-communicate) |
 ## Merge Sort
 |  |
 | ------- |
@@ -449,6 +453,7 @@
 | [0229-majority-element-ii](https://github.com/bankptrk/leetcode_exercise/tree/master/0229-majority-element-ii) |
 | [0778-reorganize-string](https://github.com/bankptrk/leetcode_exercise/tree/master/0778-reorganize-string) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/bankptrk/leetcode_exercise/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1396-count-servers-that-communicate](https://github.com/bankptrk/leetcode_exercise/tree/master/1396-count-servers-that-communicate) |
 ## Sliding Window
 |  |
 | ------- |
@@ -544,4 +549,8 @@
 |  |
 | ------- |
 | [1349-check-if-it-is-a-straight-line](https://github.com/bankptrk/leetcode_exercise/tree/master/1349-check-if-it-is-a-straight-line) |
+## Union Find
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/bankptrk/leetcode_exercise/tree/master/1396-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
