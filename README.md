@@ -85,6 +85,7 @@
 | [1396-count-servers-that-communicate](https://github.com/bankptrk/leetcode_exercise/tree/master/1396-count-servers-that-communicate) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/bankptrk/leetcode_exercise/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/bankptrk/leetcode_exercise/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/bankptrk/leetcode_exercise/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -113,6 +114,7 @@
 | [1016-subarray-sums-divisible-by-k](https://github.com/bankptrk/leetcode_exercise/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/bankptrk/leetcode_exercise/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/bankptrk/leetcode_exercise/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/bankptrk/leetcode_exercise/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Math
 |  |
 | ------- |
@@ -273,6 +275,7 @@
 | [0941-sort-array-by-parity](https://github.com/bankptrk/leetcode_exercise/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/bankptrk/leetcode_exercise/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/bankptrk/leetcode_exercise/tree/master/1019-squares-of-a-sorted-array) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/bankptrk/leetcode_exercise/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Stack
 |  |
 | ------- |
