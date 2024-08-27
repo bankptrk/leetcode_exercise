@@ -97,6 +97,7 @@
 | [1798-max-number-of-k-sum-pairs](https://github.com/bankptrk/leetcode_exercise/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/bankptrk/leetcode_exercise/tree/master/1833-find-the-highest-altitude) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/bankptrk/leetcode_exercise/tree/master/2000-minimum-speed-to-arrive-on-time) |
+| [2245-destroying-asteroids](https://github.com/bankptrk/leetcode_exercise/tree/master/2245-destroying-asteroids) |
 ## Hash Table
 |  |
 | ------- |
@@ -239,6 +240,7 @@
 | [0890-lemonade-change](https://github.com/bankptrk/leetcode_exercise/tree/master/0890-lemonade-change) |
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/bankptrk/leetcode_exercise/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/bankptrk/leetcode_exercise/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
+| [2245-destroying-asteroids](https://github.com/bankptrk/leetcode_exercise/tree/master/2245-destroying-asteroids) |
 ## String
 |  |
 | ------- |
@@ -301,6 +303,7 @@
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/bankptrk/leetcode_exercise/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/bankptrk/leetcode_exercise/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/bankptrk/leetcode_exercise/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2245-destroying-asteroids](https://github.com/bankptrk/leetcode_exercise/tree/master/2245-destroying-asteroids) |
 ## Stack
 |  |
 | ------- |
