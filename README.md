@@ -46,6 +46,7 @@
 | [0189-rotate-array](https://github.com/bankptrk/leetcode_exercise/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/bankptrk/leetcode_exercise/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bankptrk/leetcode_exercise/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/bankptrk/leetcode_exercise/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,6 +60,7 @@
 | [0141-linked-list-cycle](https://github.com/bankptrk/leetcode_exercise/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/bankptrk/leetcode_exercise/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/bankptrk/leetcode_exercise/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/bankptrk/leetcode_exercise/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
 | ------- |
@@ -160,6 +162,7 @@
 | [0148-sort-list](https://github.com/bankptrk/leetcode_exercise/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/bankptrk/leetcode_exercise/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bankptrk/leetcode_exercise/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/bankptrk/leetcode_exercise/tree/master/0217-contains-duplicate) |
 ## Stack
 |  |
 | ------- |
