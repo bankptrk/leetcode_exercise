@@ -54,6 +54,7 @@
 | [0283-move-zeroes](https://github.com/bankptrk/leetcode_exercise/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/bankptrk/leetcode_exercise/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/bankptrk/leetcode_exercise/tree/master/0289-game-of-life) |
+| [0303-range-sum-query-immutable](https://github.com/bankptrk/leetcode_exercise/tree/master/0303-range-sum-query-immutable) |
 ## Hash Table
 |  |
 | ------- |
@@ -317,6 +318,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/bankptrk/leetcode_exercise/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/bankptrk/leetcode_exercise/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/bankptrk/leetcode_exercise/tree/master/0303-range-sum-query-immutable) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -330,6 +332,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/bankptrk/leetcode_exercise/tree/master/0225-implement-stack-using-queues) |
+| [0303-range-sum-query-immutable](https://github.com/bankptrk/leetcode_exercise/tree/master/0303-range-sum-query-immutable) |
 ## Queue
 |  |
 | ------- |
