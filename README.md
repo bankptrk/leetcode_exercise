@@ -45,6 +45,7 @@
 | [0048-rotate-image](https://github.com/bankptrk/leetcode_exercise/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/bankptrk/leetcode_exercise/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/bankptrk/leetcode_exercise/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/bankptrk/leetcode_exercise/tree/master/0067-add-binary) |
 | [0263-ugly-number](https://github.com/bankptrk/leetcode_exercise/tree/master/0263-ugly-number) |
 ## Linked List
 |  |
@@ -82,6 +83,7 @@
 | [0020-valid-parentheses](https://github.com/bankptrk/leetcode_exercise/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/bankptrk/leetcode_exercise/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/bankptrk/leetcode_exercise/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/bankptrk/leetcode_exercise/tree/master/0067-add-binary) |
 ## Trie
 |  |
 | ------- |
@@ -128,4 +130,9 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/bankptrk/leetcode_exercise/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/bankptrk/leetcode_exercise/tree/master/0067-add-binary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/bankptrk/leetcode_exercise/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
