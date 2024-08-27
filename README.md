@@ -313,6 +313,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/bankptrk/leetcode_exercise/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/bankptrk/leetcode_exercise/tree/master/0222-count-complete-tree-nodes) |
 | [0404-sum-of-left-leaves](https://github.com/bankptrk/leetcode_exercise/tree/master/0404-sum-of-left-leaves) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/bankptrk/leetcode_exercise/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -322,6 +323,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/bankptrk/leetcode_exercise/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bankptrk/leetcode_exercise/tree/master/0145-binary-tree-postorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/bankptrk/leetcode_exercise/tree/master/0404-sum-of-left-leaves) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/bankptrk/leetcode_exercise/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -334,6 +336,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/bankptrk/leetcode_exercise/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/bankptrk/leetcode_exercise/tree/master/0222-count-complete-tree-nodes) |
 | [0404-sum-of-left-leaves](https://github.com/bankptrk/leetcode_exercise/tree/master/0404-sum-of-left-leaves) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/bankptrk/leetcode_exercise/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -398,4 +401,8 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/bankptrk/leetcode_exercise/tree/master/0486-predict-the-winner) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0501-find-mode-in-binary-search-tree](https://github.com/bankptrk/leetcode_exercise/tree/master/0501-find-mode-in-binary-search-tree) |
 <!---LeetCode Topics End-->
