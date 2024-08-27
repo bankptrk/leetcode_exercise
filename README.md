@@ -44,6 +44,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bankptrk/leetcode_exercise/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/bankptrk/leetcode_exercise/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/bankptrk/leetcode_exercise/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/bankptrk/leetcode_exercise/tree/master/0209-minimum-size-subarray-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -175,6 +176,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/bankptrk/leetcode_exercise/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/bankptrk/leetcode_exercise/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bankptrk/leetcode_exercise/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/bankptrk/leetcode_exercise/tree/master/0209-minimum-size-subarray-sum) |
 ## Backtracking
 |  |
 | ------- |
@@ -268,4 +270,12 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/bankptrk/leetcode_exercise/tree/master/0169-majority-element) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/bankptrk/leetcode_exercise/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/bankptrk/leetcode_exercise/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
