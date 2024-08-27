@@ -66,6 +66,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/bankptrk/leetcode_exercise/tree/master/0643-maximum-average-subarray-i) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/bankptrk/leetcode_exercise/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/bankptrk/leetcode_exercise/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/bankptrk/leetcode_exercise/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/bankptrk/leetcode_exercise/tree/master/0792-binary-search) |
 | [0817-design-hashmap](https://github.com/bankptrk/leetcode_exercise/tree/master/0817-design-hashmap) |
 ## Hash Table
@@ -243,6 +244,7 @@
 | [0225-implement-stack-using-queues](https://github.com/bankptrk/leetcode_exercise/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/bankptrk/leetcode_exercise/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/bankptrk/leetcode_exercise/tree/master/0445-add-two-numbers-ii) |
+| [0735-asteroid-collision](https://github.com/bankptrk/leetcode_exercise/tree/master/0735-asteroid-collision) |
 ## Binary Search
 |  |
 | ------- |
@@ -306,6 +308,7 @@
 | [0067-add-binary](https://github.com/bankptrk/leetcode_exercise/tree/master/0067-add-binary) |
 | [0289-game-of-life](https://github.com/bankptrk/leetcode_exercise/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/bankptrk/leetcode_exercise/tree/master/0412-fizz-buzz) |
+| [0735-asteroid-collision](https://github.com/bankptrk/leetcode_exercise/tree/master/0735-asteroid-collision) |
 ## Bit Manipulation
 |  |
 | ------- |
