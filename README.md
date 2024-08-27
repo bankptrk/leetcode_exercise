@@ -17,12 +17,14 @@
 | [0035-search-insert-position](https://github.com/bankptrk/leetcode_exercise/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/bankptrk/leetcode_exercise/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/bankptrk/leetcode_exercise/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/bankptrk/leetcode_exercise/tree/master/0041-first-missing-positive) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bankptrk/leetcode_exercise/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/bankptrk/leetcode_exercise/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/bankptrk/leetcode_exercise/tree/master/0013-roman-to-integer) |
+| [0041-first-missing-positive](https://github.com/bankptrk/leetcode_exercise/tree/master/0041-first-missing-positive) |
 ## Math
 |  |
 | ------- |
