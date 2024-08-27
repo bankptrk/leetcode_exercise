@@ -96,6 +96,7 @@
 | [1704-special-positions-in-a-binary-matrix](https://github.com/bankptrk/leetcode_exercise/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/bankptrk/leetcode_exercise/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/bankptrk/leetcode_exercise/tree/master/1833-find-the-highest-altitude) |
+| [2000-minimum-speed-to-arrive-on-time](https://github.com/bankptrk/leetcode_exercise/tree/master/2000-minimum-speed-to-arrive-on-time) |
 ## Hash Table
 |  |
 | ------- |
@@ -332,6 +333,7 @@
 | [0792-binary-search](https://github.com/bankptrk/leetcode_exercise/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/bankptrk/leetcode_exercise/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/bankptrk/leetcode_exercise/tree/master/1046-max-consecutive-ones-iii) |
+| [2000-minimum-speed-to-arrive-on-time](https://github.com/bankptrk/leetcode_exercise/tree/master/2000-minimum-speed-to-arrive-on-time) |
 ## Backtracking
 |  |
 | ------- |
