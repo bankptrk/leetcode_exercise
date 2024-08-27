@@ -88,6 +88,7 @@
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/bankptrk/leetcode_exercise/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/bankptrk/leetcode_exercise/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/bankptrk/leetcode_exercise/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
+| [1603-running-sum-of-1d-array](https://github.com/bankptrk/leetcode_exercise/tree/master/1603-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -489,6 +490,7 @@
 | [1016-subarray-sums-divisible-by-k](https://github.com/bankptrk/leetcode_exercise/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/bankptrk/leetcode_exercise/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/bankptrk/leetcode_exercise/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1603-running-sum-of-1d-array](https://github.com/bankptrk/leetcode_exercise/tree/master/1603-running-sum-of-1d-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
