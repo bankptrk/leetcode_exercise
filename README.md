@@ -87,6 +87,7 @@
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/bankptrk/leetcode_exercise/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/bankptrk/leetcode_exercise/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/bankptrk/leetcode_exercise/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/bankptrk/leetcode_exercise/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 ## Hash Table
 |  |
 | ------- |
@@ -222,6 +223,7 @@
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/bankptrk/leetcode_exercise/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0778-reorganize-string](https://github.com/bankptrk/leetcode_exercise/tree/master/0778-reorganize-string) |
 | [0890-lemonade-change](https://github.com/bankptrk/leetcode_exercise/tree/master/0890-lemonade-change) |
+| [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/bankptrk/leetcode_exercise/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 ## String
 |  |
 | ------- |
@@ -278,6 +280,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/bankptrk/leetcode_exercise/tree/master/1019-squares-of-a-sorted-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/bankptrk/leetcode_exercise/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/bankptrk/leetcode_exercise/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/bankptrk/leetcode_exercise/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 ## Stack
 |  |
 | ------- |
