@@ -99,6 +99,7 @@
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/bankptrk/leetcode_exercise/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2245-destroying-asteroids](https://github.com/bankptrk/leetcode_exercise/tree/master/2245-destroying-asteroids) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/bankptrk/leetcode_exercise/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/bankptrk/leetcode_exercise/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Hash Table
 |  |
 | ------- |
@@ -230,6 +231,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/bankptrk/leetcode_exercise/tree/master/1019-squares-of-a-sorted-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/bankptrk/leetcode_exercise/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/bankptrk/leetcode_exercise/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/bankptrk/leetcode_exercise/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Greedy
 |  |
 | ------- |
@@ -244,6 +246,7 @@
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/bankptrk/leetcode_exercise/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/bankptrk/leetcode_exercise/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [2245-destroying-asteroids](https://github.com/bankptrk/leetcode_exercise/tree/master/2245-destroying-asteroids) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/bankptrk/leetcode_exercise/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## String
 |  |
 | ------- |
@@ -307,6 +310,7 @@
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/bankptrk/leetcode_exercise/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/bankptrk/leetcode_exercise/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2245-destroying-asteroids](https://github.com/bankptrk/leetcode_exercise/tree/master/2245-destroying-asteroids) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/bankptrk/leetcode_exercise/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Stack
 |  |
 | ------- |
