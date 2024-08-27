@@ -377,6 +377,7 @@
 | [0412-fizz-buzz](https://github.com/bankptrk/leetcode_exercise/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/bankptrk/leetcode_exercise/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/bankptrk/leetcode_exercise/tree/master/0874-backspace-string-compare) |
+| [1708-design-parking-system](https://github.com/bankptrk/leetcode_exercise/tree/master/1708-design-parking-system) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -483,6 +484,7 @@
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/bankptrk/leetcode_exercise/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1396-count-servers-that-communicate](https://github.com/bankptrk/leetcode_exercise/tree/master/1396-count-servers-that-communicate) |
 | [1635-number-of-good-pairs](https://github.com/bankptrk/leetcode_exercise/tree/master/1635-number-of-good-pairs) |
+| [1708-design-parking-system](https://github.com/bankptrk/leetcode_exercise/tree/master/1708-design-parking-system) |
 ## Sliding Window
 |  |
 | ------- |
@@ -525,6 +527,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/bankptrk/leetcode_exercise/tree/master/0380-insert-delete-getrandom-o1) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/bankptrk/leetcode_exercise/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0817-design-hashmap](https://github.com/bankptrk/leetcode_exercise/tree/master/0817-design-hashmap) |
+| [1708-design-parking-system](https://github.com/bankptrk/leetcode_exercise/tree/master/1708-design-parking-system) |
 ## Queue
 |  |
 | ------- |
