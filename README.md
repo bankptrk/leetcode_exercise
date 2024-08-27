@@ -80,6 +80,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/bankptrk/leetcode_exercise/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/bankptrk/leetcode_exercise/tree/master/1046-max-consecutive-ones-iii) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/bankptrk/leetcode_exercise/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/bankptrk/leetcode_exercise/tree/master/1349-check-if-it-is-a-straight-line) |
 ## Hash Table
 |  |
 | ------- |
@@ -134,6 +135,7 @@
 | [0445-add-two-numbers-ii](https://github.com/bankptrk/leetcode_exercise/tree/master/0445-add-two-numbers-ii) |
 | [0486-predict-the-winner](https://github.com/bankptrk/leetcode_exercise/tree/master/0486-predict-the-winner) |
 | [1013-fibonacci-number](https://github.com/bankptrk/leetcode_exercise/tree/master/1013-fibonacci-number) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/bankptrk/leetcode_exercise/tree/master/1349-check-if-it-is-a-straight-line) |
 ## Linked List
 |  |
 | ------- |
@@ -536,4 +538,8 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/bankptrk/leetcode_exercise/tree/master/0948-sort-an-array) |
+## Geometry
+|  |
+| ------- |
+| [1349-check-if-it-is-a-straight-line](https://github.com/bankptrk/leetcode_exercise/tree/master/1349-check-if-it-is-a-straight-line) |
 <!---LeetCode Topics End-->
