@@ -82,6 +82,7 @@
 | [0171-excel-sheet-column-number](https://github.com/bankptrk/leetcode_exercise/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/bankptrk/leetcode_exercise/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/bankptrk/leetcode_exercise/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/bankptrk/leetcode_exercise/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/bankptrk/leetcode_exercise/tree/master/0263-ugly-number) |
 ## Linked List
 |  |
@@ -106,6 +107,7 @@
 | [0050-powx-n](https://github.com/bankptrk/leetcode_exercise/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/bankptrk/leetcode_exercise/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/bankptrk/leetcode_exercise/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/bankptrk/leetcode_exercise/tree/master/0231-power-of-two) |
 ## Two Pointers
 |  |
 | ------- |
@@ -236,6 +238,7 @@
 | [0137-single-number-ii](https://github.com/bankptrk/leetcode_exercise/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/bankptrk/leetcode_exercise/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/bankptrk/leetcode_exercise/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/bankptrk/leetcode_exercise/tree/master/0231-power-of-two) |
 ## Memoization
 |  |
 | ------- |
