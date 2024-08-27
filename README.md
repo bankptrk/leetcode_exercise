@@ -93,6 +93,7 @@
 | [1603-running-sum-of-1d-array](https://github.com/bankptrk/leetcode_exercise/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/bankptrk/leetcode_exercise/tree/master/1635-number-of-good-pairs) |
 | [1677-matrix-diagonal-sum](https://github.com/bankptrk/leetcode_exercise/tree/master/1677-matrix-diagonal-sum) |
+| [1704-special-positions-in-a-binary-matrix](https://github.com/bankptrk/leetcode_exercise/tree/master/1704-special-positions-in-a-binary-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -342,6 +343,7 @@
 | [0289-game-of-life](https://github.com/bankptrk/leetcode_exercise/tree/master/0289-game-of-life) |
 | [1396-count-servers-that-communicate](https://github.com/bankptrk/leetcode_exercise/tree/master/1396-count-servers-that-communicate) |
 | [1677-matrix-diagonal-sum](https://github.com/bankptrk/leetcode_exercise/tree/master/1677-matrix-diagonal-sum) |
+| [1704-special-positions-in-a-binary-matrix](https://github.com/bankptrk/leetcode_exercise/tree/master/1704-special-positions-in-a-binary-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
