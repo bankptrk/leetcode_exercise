@@ -92,6 +92,7 @@
 | [0202-happy-number](https://github.com/bankptrk/leetcode_exercise/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/bankptrk/leetcode_exercise/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/bankptrk/leetcode_exercise/tree/master/0263-ugly-number) |
+| [0342-power-of-four](https://github.com/bankptrk/leetcode_exercise/tree/master/0342-power-of-four) |
 ## Linked List
 |  |
 | ------- |
@@ -118,6 +119,7 @@
 | [0206-reverse-linked-list](https://github.com/bankptrk/leetcode_exercise/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/bankptrk/leetcode_exercise/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/bankptrk/leetcode_exercise/tree/master/0234-palindrome-linked-list) |
+| [0342-power-of-four](https://github.com/bankptrk/leetcode_exercise/tree/master/0342-power-of-four) |
 ## Two Pointers
 |  |
 | ------- |
@@ -262,6 +264,7 @@
 | [0231-power-of-two](https://github.com/bankptrk/leetcode_exercise/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/bankptrk/leetcode_exercise/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/bankptrk/leetcode_exercise/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/bankptrk/leetcode_exercise/tree/master/0342-power-of-four) |
 ## Memoization
 |  |
 | ------- |
