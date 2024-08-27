@@ -40,6 +40,7 @@
 | [0134-gas-station](https://github.com/bankptrk/leetcode_exercise/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/bankptrk/leetcode_exercise/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/bankptrk/leetcode_exercise/tree/master/0137-single-number-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/bankptrk/leetcode_exercise/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -153,6 +154,7 @@
 | [0069-sqrtx](https://github.com/bankptrk/leetcode_exercise/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/bankptrk/leetcode_exercise/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/bankptrk/leetcode_exercise/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/bankptrk/leetcode_exercise/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Backtracking
 |  |
 | ------- |
