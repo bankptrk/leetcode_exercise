@@ -150,6 +150,7 @@
 | [0283-move-zeroes](https://github.com/bankptrk/leetcode_exercise/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/bankptrk/leetcode_exercise/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/bankptrk/leetcode_exercise/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/bankptrk/leetcode_exercise/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
 | ------- |
@@ -174,6 +175,7 @@
 | [0242-valid-anagram](https://github.com/bankptrk/leetcode_exercise/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/bankptrk/leetcode_exercise/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/bankptrk/leetcode_exercise/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/bankptrk/leetcode_exercise/tree/master/0392-is-subsequence) |
 ## Trie
 |  |
 | ------- |
@@ -253,6 +255,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bankptrk/leetcode_exercise/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/bankptrk/leetcode_exercise/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0338-counting-bits](https://github.com/bankptrk/leetcode_exercise/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/bankptrk/leetcode_exercise/tree/master/0392-is-subsequence) |
 ## Simulation
 |  |
 | ------- |
