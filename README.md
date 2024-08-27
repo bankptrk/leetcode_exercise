@@ -63,6 +63,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/bankptrk/leetcode_exercise/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/bankptrk/leetcode_exercise/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/bankptrk/leetcode_exercise/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0086-partition-list](https://github.com/bankptrk/leetcode_exercise/tree/master/0086-partition-list) |
 ## Recursion
 |  |
 | ------- |
@@ -82,6 +83,7 @@
 | [0031-next-permutation](https://github.com/bankptrk/leetcode_exercise/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/bankptrk/leetcode_exercise/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/bankptrk/leetcode_exercise/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0086-partition-list](https://github.com/bankptrk/leetcode_exercise/tree/master/0086-partition-list) |
 ## Greedy
 |  |
 | ------- |
