@@ -52,6 +52,7 @@
 | [0238-product-of-array-except-self](https://github.com/bankptrk/leetcode_exercise/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/bankptrk/leetcode_exercise/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/bankptrk/leetcode_exercise/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/bankptrk/leetcode_exercise/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -138,6 +139,7 @@
 | [0202-happy-number](https://github.com/bankptrk/leetcode_exercise/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/bankptrk/leetcode_exercise/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/bankptrk/leetcode_exercise/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/bankptrk/leetcode_exercise/tree/master/0287-find-the-duplicate-number) |
 ## Greedy
 |  |
 | ------- |
@@ -201,6 +203,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bankptrk/leetcode_exercise/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/bankptrk/leetcode_exercise/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/bankptrk/leetcode_exercise/tree/master/0222-count-complete-tree-nodes) |
+| [0287-find-the-duplicate-number](https://github.com/bankptrk/leetcode_exercise/tree/master/0287-find-the-duplicate-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -250,6 +253,7 @@
 | [0191-number-of-1-bits](https://github.com/bankptrk/leetcode_exercise/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/bankptrk/leetcode_exercise/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/bankptrk/leetcode_exercise/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/bankptrk/leetcode_exercise/tree/master/0287-find-the-duplicate-number) |
 ## Memoization
 |  |
 | ------- |
