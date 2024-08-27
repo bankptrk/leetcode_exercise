@@ -428,4 +428,8 @@
 | ------- |
 | [0501-find-mode-in-binary-search-tree](https://github.com/bankptrk/leetcode_exercise/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/bankptrk/leetcode_exercise/tree/master/0530-minimum-absolute-difference-in-bst) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/bankptrk/leetcode_exercise/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
