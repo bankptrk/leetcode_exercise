@@ -77,6 +77,7 @@
 | [0941-sort-array-by-parity](https://github.com/bankptrk/leetcode_exercise/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/bankptrk/leetcode_exercise/tree/master/0948-sort-an-array) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/bankptrk/leetcode_exercise/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1019-squares-of-a-sorted-array](https://github.com/bankptrk/leetcode_exercise/tree/master/1019-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -196,6 +197,7 @@
 | [0874-backspace-string-compare](https://github.com/bankptrk/leetcode_exercise/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/bankptrk/leetcode_exercise/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/bankptrk/leetcode_exercise/tree/master/0941-sort-array-by-parity) |
+| [1019-squares-of-a-sorted-array](https://github.com/bankptrk/leetcode_exercise/tree/master/1019-squares-of-a-sorted-array) |
 ## Greedy
 |  |
 | ------- |
@@ -259,6 +261,7 @@
 | [0778-reorganize-string](https://github.com/bankptrk/leetcode_exercise/tree/master/0778-reorganize-string) |
 | [0941-sort-array-by-parity](https://github.com/bankptrk/leetcode_exercise/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/bankptrk/leetcode_exercise/tree/master/0948-sort-an-array) |
+| [1019-squares-of-a-sorted-array](https://github.com/bankptrk/leetcode_exercise/tree/master/1019-squares-of-a-sorted-array) |
 ## Stack
 |  |
 | ------- |
