@@ -1,4 +1,4 @@
-# leetcode_exercise
+
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
