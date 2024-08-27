@@ -134,6 +134,7 @@
 | [0206-reverse-linked-list](https://github.com/bankptrk/leetcode_exercise/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/bankptrk/leetcode_exercise/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/bankptrk/leetcode_exercise/tree/master/0445-add-two-numbers-ii) |
+| [0725-split-linked-list-in-parts](https://github.com/bankptrk/leetcode_exercise/tree/master/0725-split-linked-list-in-parts) |
 | [0817-design-hashmap](https://github.com/bankptrk/leetcode_exercise/tree/master/0817-design-hashmap) |
 ## Recursion
 |  |
