@@ -95,6 +95,7 @@
 | [1677-matrix-diagonal-sum](https://github.com/bankptrk/leetcode_exercise/tree/master/1677-matrix-diagonal-sum) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/bankptrk/leetcode_exercise/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/bankptrk/leetcode_exercise/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1833-find-the-highest-altitude](https://github.com/bankptrk/leetcode_exercise/tree/master/1833-find-the-highest-altitude) |
 ## Hash Table
 |  |
 | ------- |
@@ -514,6 +515,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/bankptrk/leetcode_exercise/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/bankptrk/leetcode_exercise/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/bankptrk/leetcode_exercise/tree/master/1603-running-sum-of-1d-array) |
+| [1833-find-the-highest-altitude](https://github.com/bankptrk/leetcode_exercise/tree/master/1833-find-the-highest-altitude) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
