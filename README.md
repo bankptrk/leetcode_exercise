@@ -76,6 +76,7 @@
 | [0932-monotonic-array](https://github.com/bankptrk/leetcode_exercise/tree/master/0932-monotonic-array) |
 | [0941-sort-array-by-parity](https://github.com/bankptrk/leetcode_exercise/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/bankptrk/leetcode_exercise/tree/master/0948-sort-an-array) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/bankptrk/leetcode_exercise/tree/master/1016-subarray-sums-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -101,6 +102,7 @@
 | [0782-jewels-and-stones](https://github.com/bankptrk/leetcode_exercise/tree/master/0782-jewels-and-stones) |
 | [0817-design-hashmap](https://github.com/bankptrk/leetcode_exercise/tree/master/0817-design-hashmap) |
 | [0889-buddy-strings](https://github.com/bankptrk/leetcode_exercise/tree/master/0889-buddy-strings) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/bankptrk/leetcode_exercise/tree/master/1016-subarray-sums-divisible-by-k) |
 ## Math
 |  |
 | ------- |
@@ -445,6 +447,7 @@
 | [0303-range-sum-query-immutable](https://github.com/bankptrk/leetcode_exercise/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/bankptrk/leetcode_exercise/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/bankptrk/leetcode_exercise/tree/master/0724-find-pivot-index) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/bankptrk/leetcode_exercise/tree/master/1016-subarray-sums-divisible-by-k) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
