@@ -56,6 +56,7 @@
 | [0289-game-of-life](https://github.com/bankptrk/leetcode_exercise/tree/master/0289-game-of-life) |
 | [0303-range-sum-query-immutable](https://github.com/bankptrk/leetcode_exercise/tree/master/0303-range-sum-query-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/bankptrk/leetcode_exercise/tree/master/0334-increasing-triplet-subsequence) |
+| [0380-insert-delete-getrandom-o1](https://github.com/bankptrk/leetcode_exercise/tree/master/0380-insert-delete-getrandom-o1) |
 ## Hash Table
 |  |
 | ------- |
@@ -72,6 +73,7 @@
 | [0217-contains-duplicate](https://github.com/bankptrk/leetcode_exercise/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/bankptrk/leetcode_exercise/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/bankptrk/leetcode_exercise/tree/master/0242-valid-anagram) |
+| [0380-insert-delete-getrandom-o1](https://github.com/bankptrk/leetcode_exercise/tree/master/0380-insert-delete-getrandom-o1) |
 ## Math
 |  |
 | ------- |
@@ -93,6 +95,7 @@
 | [0231-power-of-two](https://github.com/bankptrk/leetcode_exercise/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/bankptrk/leetcode_exercise/tree/master/0263-ugly-number) |
 | [0342-power-of-four](https://github.com/bankptrk/leetcode_exercise/tree/master/0342-power-of-four) |
+| [0380-insert-delete-getrandom-o1](https://github.com/bankptrk/leetcode_exercise/tree/master/0380-insert-delete-getrandom-o1) |
 ## Linked List
 |  |
 | ------- |
@@ -342,6 +345,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/bankptrk/leetcode_exercise/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/bankptrk/leetcode_exercise/tree/master/0303-range-sum-query-immutable) |
+| [0380-insert-delete-getrandom-o1](https://github.com/bankptrk/leetcode_exercise/tree/master/0380-insert-delete-getrandom-o1) |
 ## Queue
 |  |
 | ------- |
@@ -351,4 +355,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/bankptrk/leetcode_exercise/tree/master/0239-sliding-window-maximum) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/bankptrk/leetcode_exercise/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
