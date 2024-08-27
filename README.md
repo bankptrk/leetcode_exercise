@@ -65,6 +65,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/bankptrk/leetcode_exercise/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/bankptrk/leetcode_exercise/tree/master/0643-maximum-average-subarray-i) |
 | [0792-binary-search](https://github.com/bankptrk/leetcode_exercise/tree/master/0792-binary-search) |
+| [0817-design-hashmap](https://github.com/bankptrk/leetcode_exercise/tree/master/0817-design-hashmap) |
 ## Hash Table
 |  |
 | ------- |
@@ -86,6 +87,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/bankptrk/leetcode_exercise/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/bankptrk/leetcode_exercise/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/bankptrk/leetcode_exercise/tree/master/0560-subarray-sum-equals-k) |
+| [0817-design-hashmap](https://github.com/bankptrk/leetcode_exercise/tree/master/0817-design-hashmap) |
 ## Math
 |  |
 | ------- |
@@ -130,6 +132,7 @@
 | [0206-reverse-linked-list](https://github.com/bankptrk/leetcode_exercise/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/bankptrk/leetcode_exercise/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/bankptrk/leetcode_exercise/tree/master/0445-add-two-numbers-ii) |
+| [0817-design-hashmap](https://github.com/bankptrk/leetcode_exercise/tree/master/0817-design-hashmap) |
 ## Recursion
 |  |
 | ------- |
@@ -412,6 +415,7 @@
 | [0303-range-sum-query-immutable](https://github.com/bankptrk/leetcode_exercise/tree/master/0303-range-sum-query-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/bankptrk/leetcode_exercise/tree/master/0380-insert-delete-getrandom-o1) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/bankptrk/leetcode_exercise/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0817-design-hashmap](https://github.com/bankptrk/leetcode_exercise/tree/master/0817-design-hashmap) |
 ## Queue
 |  |
 | ------- |
@@ -449,4 +453,8 @@
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/bankptrk/leetcode_exercise/tree/master/0789-kth-largest-element-in-a-stream) |
+## Hash Function
+|  |
+| ------- |
+| [0817-design-hashmap](https://github.com/bankptrk/leetcode_exercise/tree/master/0817-design-hashmap) |
 <!---LeetCode Topics End-->
