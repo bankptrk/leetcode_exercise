@@ -60,6 +60,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/bankptrk/leetcode_exercise/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/bankptrk/leetcode_exercise/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/bankptrk/leetcode_exercise/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/bankptrk/leetcode_exercise/tree/master/0486-predict-the-winner) |
 ## Hash Table
 |  |
 | ------- |
@@ -104,6 +105,7 @@
 | [0412-fizz-buzz](https://github.com/bankptrk/leetcode_exercise/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/bankptrk/leetcode_exercise/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/bankptrk/leetcode_exercise/tree/master/0445-add-two-numbers-ii) |
+| [0486-predict-the-winner](https://github.com/bankptrk/leetcode_exercise/tree/master/0486-predict-the-winner) |
 ## Linked List
 |  |
 | ------- |
@@ -132,6 +134,7 @@
 | [0231-power-of-two](https://github.com/bankptrk/leetcode_exercise/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/bankptrk/leetcode_exercise/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/bankptrk/leetcode_exercise/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/bankptrk/leetcode_exercise/tree/master/0486-predict-the-winner) |
 ## Two Pointers
 |  |
 | ------- |
@@ -271,6 +274,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/bankptrk/leetcode_exercise/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0338-counting-bits](https://github.com/bankptrk/leetcode_exercise/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/bankptrk/leetcode_exercise/tree/master/0392-is-subsequence) |
+| [0486-predict-the-winner](https://github.com/bankptrk/leetcode_exercise/tree/master/0486-predict-the-winner) |
 ## Simulation
 |  |
 | ------- |
@@ -390,4 +394,8 @@
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/bankptrk/leetcode_exercise/tree/master/0459-repeated-substring-pattern) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/bankptrk/leetcode_exercise/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
