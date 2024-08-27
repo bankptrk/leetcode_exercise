@@ -92,6 +92,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/bankptrk/leetcode_exercise/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0086-partition-list](https://github.com/bankptrk/leetcode_exercise/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/bankptrk/leetcode_exercise/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/bankptrk/leetcode_exercise/tree/master/0125-valid-palindrome) |
 ## Greedy
 |  |
 | ------- |
@@ -107,6 +108,7 @@
 | [0049-group-anagrams](https://github.com/bankptrk/leetcode_exercise/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/bankptrk/leetcode_exercise/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/bankptrk/leetcode_exercise/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/bankptrk/leetcode_exercise/tree/master/0125-valid-palindrome) |
 ## Trie
 |  |
 | ------- |
