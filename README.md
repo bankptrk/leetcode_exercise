@@ -67,6 +67,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/bankptrk/leetcode_exercise/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/bankptrk/leetcode_exercise/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/bankptrk/leetcode_exercise/tree/master/0092-reverse-linked-list-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/bankptrk/leetcode_exercise/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Recursion
 |  |
 | ------- |
@@ -178,11 +179,13 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/bankptrk/leetcode_exercise/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/bankptrk/leetcode_exercise/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/bankptrk/leetcode_exercise/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/bankptrk/leetcode_exercise/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/bankptrk/leetcode_exercise/tree/master/0094-binary-tree-inorder-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/bankptrk/leetcode_exercise/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/bankptrk/leetcode_exercise/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Binary Tree
 |  |
 | ------- |
@@ -190,10 +193,12 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/bankptrk/leetcode_exercise/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/bankptrk/leetcode_exercise/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/bankptrk/leetcode_exercise/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/bankptrk/leetcode_exercise/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/bankptrk/leetcode_exercise/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/bankptrk/leetcode_exercise/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/bankptrk/leetcode_exercise/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/bankptrk/leetcode_exercise/tree/master/0116-populating-next-right-pointers-in-each-node) |
 <!---LeetCode Topics End-->
