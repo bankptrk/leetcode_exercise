@@ -84,6 +84,7 @@
 | [1349-check-if-it-is-a-straight-line](https://github.com/bankptrk/leetcode_exercise/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1396-count-servers-that-communicate](https://github.com/bankptrk/leetcode_exercise/tree/master/1396-count-servers-that-communicate) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/bankptrk/leetcode_exercise/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/bankptrk/leetcode_exercise/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Hash Table
 |  |
 | ------- |
@@ -464,6 +465,7 @@
 | [0239-sliding-window-maximum](https://github.com/bankptrk/leetcode_exercise/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/bankptrk/leetcode_exercise/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/bankptrk/leetcode_exercise/tree/master/1046-max-consecutive-ones-iii) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/bankptrk/leetcode_exercise/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -474,6 +476,7 @@
 | [0724-find-pivot-index](https://github.com/bankptrk/leetcode_exercise/tree/master/0724-find-pivot-index) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/bankptrk/leetcode_exercise/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/bankptrk/leetcode_exercise/tree/master/1046-max-consecutive-ones-iii) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/bankptrk/leetcode_exercise/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
