@@ -72,6 +72,7 @@
 | [0792-binary-search](https://github.com/bankptrk/leetcode_exercise/tree/master/0792-binary-search) |
 | [0817-design-hashmap](https://github.com/bankptrk/leetcode_exercise/tree/master/0817-design-hashmap) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/bankptrk/leetcode_exercise/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0890-lemonade-change](https://github.com/bankptrk/leetcode_exercise/tree/master/0890-lemonade-change) |
 ## Hash Table
 |  |
 | ------- |
@@ -197,6 +198,7 @@
 | [0455-assign-cookies](https://github.com/bankptrk/leetcode_exercise/tree/master/0455-assign-cookies) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/bankptrk/leetcode_exercise/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0778-reorganize-string](https://github.com/bankptrk/leetcode_exercise/tree/master/0778-reorganize-string) |
+| [0890-lemonade-change](https://github.com/bankptrk/leetcode_exercise/tree/master/0890-lemonade-change) |
 ## String
 |  |
 | ------- |
