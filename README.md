@@ -51,6 +51,7 @@
 | [0229-majority-element-ii](https://github.com/bankptrk/leetcode_exercise/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/bankptrk/leetcode_exercise/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/bankptrk/leetcode_exercise/tree/master/0239-sliding-window-maximum) |
+| [0283-move-zeroes](https://github.com/bankptrk/leetcode_exercise/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -136,6 +137,7 @@
 | [0189-rotate-array](https://github.com/bankptrk/leetcode_exercise/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/bankptrk/leetcode_exercise/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/bankptrk/leetcode_exercise/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/bankptrk/leetcode_exercise/tree/master/0283-move-zeroes) |
 ## Greedy
 |  |
 | ------- |
