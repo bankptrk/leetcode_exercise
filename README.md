@@ -98,6 +98,7 @@
 | [0342-power-of-four](https://github.com/bankptrk/leetcode_exercise/tree/master/0342-power-of-four) |
 | [0380-insert-delete-getrandom-o1](https://github.com/bankptrk/leetcode_exercise/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/bankptrk/leetcode_exercise/tree/master/0412-fizz-buzz) |
+| [0441-arranging-coins](https://github.com/bankptrk/leetcode_exercise/tree/master/0441-arranging-coins) |
 ## Linked List
 |  |
 | ------- |
@@ -222,6 +223,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/bankptrk/leetcode_exercise/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/bankptrk/leetcode_exercise/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/bankptrk/leetcode_exercise/tree/master/0287-find-the-duplicate-number) |
+| [0441-arranging-coins](https://github.com/bankptrk/leetcode_exercise/tree/master/0441-arranging-coins) |
 ## Backtracking
 |  |
 | ------- |
