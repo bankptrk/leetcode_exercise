@@ -160,6 +160,7 @@
 | [1013-fibonacci-number](https://github.com/bankptrk/leetcode_exercise/tree/master/1013-fibonacci-number) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/bankptrk/leetcode_exercise/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1635-number-of-good-pairs](https://github.com/bankptrk/leetcode_exercise/tree/master/1635-number-of-good-pairs) |
+| [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/bankptrk/leetcode_exercise/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 ## Linked List
 |  |
 | ------- |
@@ -397,6 +398,7 @@
 | [0874-backspace-string-compare](https://github.com/bankptrk/leetcode_exercise/tree/master/0874-backspace-string-compare) |
 | [1708-design-parking-system](https://github.com/bankptrk/leetcode_exercise/tree/master/1708-design-parking-system) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/bankptrk/leetcode_exercise/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/bankptrk/leetcode_exercise/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 ## Bit Manipulation
 |  |
 | ------- |
