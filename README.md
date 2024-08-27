@@ -276,6 +276,7 @@
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/bankptrk/leetcode_exercise/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/bankptrk/leetcode_exercise/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/bankptrk/leetcode_exercise/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [2887-sort-vowels-in-a-string](https://github.com/bankptrk/leetcode_exercise/tree/master/2887-sort-vowels-in-a-string) |
 ## Trie
 |  |
 | ------- |
@@ -311,6 +312,7 @@
 | [1798-max-number-of-k-sum-pairs](https://github.com/bankptrk/leetcode_exercise/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2245-destroying-asteroids](https://github.com/bankptrk/leetcode_exercise/tree/master/2245-destroying-asteroids) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/bankptrk/leetcode_exercise/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2887-sort-vowels-in-a-string](https://github.com/bankptrk/leetcode_exercise/tree/master/2887-sort-vowels-in-a-string) |
 ## Stack
 |  |
 | ------- |
