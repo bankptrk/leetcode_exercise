@@ -73,6 +73,7 @@
 | [0817-design-hashmap](https://github.com/bankptrk/leetcode_exercise/tree/master/0817-design-hashmap) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/bankptrk/leetcode_exercise/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/bankptrk/leetcode_exercise/tree/master/0890-lemonade-change) |
+| [0932-monotonic-array](https://github.com/bankptrk/leetcode_exercise/tree/master/0932-monotonic-array) |
 ## Hash Table
 |  |
 | ------- |
