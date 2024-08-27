@@ -79,6 +79,7 @@
 | [1016-subarray-sums-divisible-by-k](https://github.com/bankptrk/leetcode_exercise/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1019-squares-of-a-sorted-array](https://github.com/bankptrk/leetcode_exercise/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/bankptrk/leetcode_exercise/tree/master/1046-max-consecutive-ones-iii) |
+| [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/bankptrk/leetcode_exercise/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 ## Hash Table
 |  |
 | ------- |
@@ -105,6 +106,7 @@
 | [0817-design-hashmap](https://github.com/bankptrk/leetcode_exercise/tree/master/0817-design-hashmap) |
 | [0889-buddy-strings](https://github.com/bankptrk/leetcode_exercise/tree/master/0889-buddy-strings) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/bankptrk/leetcode_exercise/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/bankptrk/leetcode_exercise/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 ## Math
 |  |
 | ------- |
@@ -438,6 +440,7 @@
 | [0169-majority-element](https://github.com/bankptrk/leetcode_exercise/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/bankptrk/leetcode_exercise/tree/master/0229-majority-element-ii) |
 | [0778-reorganize-string](https://github.com/bankptrk/leetcode_exercise/tree/master/0778-reorganize-string) |
+| [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/bankptrk/leetcode_exercise/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 ## Sliding Window
 |  |
 | ------- |
