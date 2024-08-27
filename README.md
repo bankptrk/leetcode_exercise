@@ -61,6 +61,7 @@
 | [0455-assign-cookies](https://github.com/bankptrk/leetcode_exercise/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/bankptrk/leetcode_exercise/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/bankptrk/leetcode_exercise/tree/master/0486-predict-the-winner) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/bankptrk/leetcode_exercise/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -80,6 +81,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/bankptrk/leetcode_exercise/tree/master/0380-insert-delete-getrandom-o1) |
 | [0389-find-the-difference](https://github.com/bankptrk/leetcode_exercise/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/bankptrk/leetcode_exercise/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/bankptrk/leetcode_exercise/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Math
 |  |
 | ------- |
@@ -165,6 +167,7 @@
 | [0344-reverse-string](https://github.com/bankptrk/leetcode_exercise/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/bankptrk/leetcode_exercise/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/bankptrk/leetcode_exercise/tree/master/0455-assign-cookies) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/bankptrk/leetcode_exercise/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Greedy
 |  |
 | ------- |
@@ -215,6 +218,7 @@
 | [0242-valid-anagram](https://github.com/bankptrk/leetcode_exercise/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/bankptrk/leetcode_exercise/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/bankptrk/leetcode_exercise/tree/master/0455-assign-cookies) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/bankptrk/leetcode_exercise/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Stack
 |  |
 | ------- |
@@ -240,6 +244,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/bankptrk/leetcode_exercise/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/bankptrk/leetcode_exercise/tree/master/0287-find-the-duplicate-number) |
 | [0441-arranging-coins](https://github.com/bankptrk/leetcode_exercise/tree/master/0441-arranging-coins) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/bankptrk/leetcode_exercise/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Backtracking
 |  |
 | ------- |
