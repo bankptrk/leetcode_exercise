@@ -102,6 +102,7 @@
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/bankptrk/leetcode_exercise/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/bankptrk/leetcode_exercise/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2872-largest-element-in-an-array-after-merge-operations](https://github.com/bankptrk/leetcode_exercise/tree/master/2872-largest-element-in-an-array-after-merge-operations) |
+| [2916-check-if-it-is-possible-to-split-array](https://github.com/bankptrk/leetcode_exercise/tree/master/2916-check-if-it-is-possible-to-split-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -251,6 +252,7 @@
 | [2245-destroying-asteroids](https://github.com/bankptrk/leetcode_exercise/tree/master/2245-destroying-asteroids) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/bankptrk/leetcode_exercise/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2872-largest-element-in-an-array-after-merge-operations](https://github.com/bankptrk/leetcode_exercise/tree/master/2872-largest-element-in-an-array-after-merge-operations) |
+| [2916-check-if-it-is-possible-to-split-array](https://github.com/bankptrk/leetcode_exercise/tree/master/2916-check-if-it-is-possible-to-split-array) |
 ## String
 |  |
 | ------- |
@@ -397,6 +399,7 @@
 | [0747-min-cost-climbing-stairs](https://github.com/bankptrk/leetcode_exercise/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/bankptrk/leetcode_exercise/tree/master/1013-fibonacci-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/bankptrk/leetcode_exercise/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [2916-check-if-it-is-possible-to-split-array](https://github.com/bankptrk/leetcode_exercise/tree/master/2916-check-if-it-is-possible-to-split-array) |
 ## Simulation
 |  |
 | ------- |
