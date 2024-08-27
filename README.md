@@ -74,6 +74,7 @@
 | [0882-peak-index-in-a-mountain-array](https://github.com/bankptrk/leetcode_exercise/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/bankptrk/leetcode_exercise/tree/master/0890-lemonade-change) |
 | [0932-monotonic-array](https://github.com/bankptrk/leetcode_exercise/tree/master/0932-monotonic-array) |
+| [0941-sort-array-by-parity](https://github.com/bankptrk/leetcode_exercise/tree/master/0941-sort-array-by-parity) |
 ## Hash Table
 |  |
 | ------- |
@@ -191,6 +192,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/bankptrk/leetcode_exercise/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0874-backspace-string-compare](https://github.com/bankptrk/leetcode_exercise/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/bankptrk/leetcode_exercise/tree/master/0908-middle-of-the-linked-list) |
+| [0941-sort-array-by-parity](https://github.com/bankptrk/leetcode_exercise/tree/master/0941-sort-array-by-parity) |
 ## Greedy
 |  |
 | ------- |
@@ -252,6 +254,7 @@
 | [0455-assign-cookies](https://github.com/bankptrk/leetcode_exercise/tree/master/0455-assign-cookies) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/bankptrk/leetcode_exercise/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0778-reorganize-string](https://github.com/bankptrk/leetcode_exercise/tree/master/0778-reorganize-string) |
+| [0941-sort-array-by-parity](https://github.com/bankptrk/leetcode_exercise/tree/master/0941-sort-array-by-parity) |
 ## Stack
 |  |
 | ------- |
