@@ -20,6 +20,7 @@
 | [0041-first-missing-positive](https://github.com/bankptrk/leetcode_exercise/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/bankptrk/leetcode_exercise/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/bankptrk/leetcode_exercise/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/bankptrk/leetcode_exercise/tree/master/0048-rotate-image) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,6 +36,7 @@
 | [0009-palindrome-number](https://github.com/bankptrk/leetcode_exercise/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/bankptrk/leetcode_exercise/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/bankptrk/leetcode_exercise/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/bankptrk/leetcode_exercise/tree/master/0048-rotate-image) |
 | [0263-ugly-number](https://github.com/bankptrk/leetcode_exercise/tree/master/0263-ugly-number) |
 ## Linked List
 |  |
@@ -96,4 +98,8 @@
 | [0040-combination-sum-ii](https://github.com/bankptrk/leetcode_exercise/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/bankptrk/leetcode_exercise/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/bankptrk/leetcode_exercise/tree/master/0047-permutations-ii) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/bankptrk/leetcode_exercise/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
