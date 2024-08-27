@@ -78,6 +78,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/bankptrk/leetcode_exercise/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0138-copy-list-with-random-pointer](https://github.com/bankptrk/leetcode_exercise/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/bankptrk/leetcode_exercise/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/bankptrk/leetcode_exercise/tree/master/0148-sort-list) |
 ## Recursion
 |  |
 | ------- |
@@ -101,6 +102,7 @@
 | [0088-merge-sorted-array](https://github.com/bankptrk/leetcode_exercise/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/bankptrk/leetcode_exercise/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/bankptrk/leetcode_exercise/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/bankptrk/leetcode_exercise/tree/master/0148-sort-list) |
 ## Greedy
 |  |
 | ------- |
@@ -132,6 +134,7 @@
 | [0056-merge-intervals](https://github.com/bankptrk/leetcode_exercise/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/bankptrk/leetcode_exercise/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/bankptrk/leetcode_exercise/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/bankptrk/leetcode_exercise/tree/master/0148-sort-list) |
 ## Stack
 |  |
 | ------- |
@@ -169,6 +172,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/bankptrk/leetcode_exercise/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/bankptrk/leetcode_exercise/tree/master/0148-sort-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -229,4 +233,8 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/bankptrk/leetcode_exercise/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/bankptrk/leetcode_exercise/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/bankptrk/leetcode_exercise/tree/master/0116-populating-next-right-pointers-in-each-node) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/bankptrk/leetcode_exercise/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
