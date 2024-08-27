@@ -53,6 +53,7 @@
 | [0239-sliding-window-maximum](https://github.com/bankptrk/leetcode_exercise/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/bankptrk/leetcode_exercise/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/bankptrk/leetcode_exercise/tree/master/0287-find-the-duplicate-number) |
+| [0289-game-of-life](https://github.com/bankptrk/leetcode_exercise/tree/master/0289-game-of-life) |
 ## Hash Table
 |  |
 | ------- |
@@ -221,6 +222,7 @@
 | [0054-spiral-matrix](https://github.com/bankptrk/leetcode_exercise/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/bankptrk/leetcode_exercise/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/bankptrk/leetcode_exercise/tree/master/0074-search-a-2d-matrix) |
+| [0289-game-of-life](https://github.com/bankptrk/leetcode_exercise/tree/master/0289-game-of-life) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -242,6 +244,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/bankptrk/leetcode_exercise/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/bankptrk/leetcode_exercise/tree/master/0067-add-binary) |
+| [0289-game-of-life](https://github.com/bankptrk/leetcode_exercise/tree/master/0289-game-of-life) |
 ## Bit Manipulation
 |  |
 | ------- |
