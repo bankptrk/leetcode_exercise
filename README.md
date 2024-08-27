@@ -267,6 +267,7 @@
 | [0889-buddy-strings](https://github.com/bankptrk/leetcode_exercise/tree/master/0889-buddy-strings) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/bankptrk/leetcode_exercise/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/bankptrk/leetcode_exercise/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/bankptrk/leetcode_exercise/tree/master/2134-maximize-the-confusion-of-an-exam) |
 ## Trie
 |  |
 | ------- |
@@ -334,6 +335,7 @@
 | [0882-peak-index-in-a-mountain-array](https://github.com/bankptrk/leetcode_exercise/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/bankptrk/leetcode_exercise/tree/master/1046-max-consecutive-ones-iii) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/bankptrk/leetcode_exercise/tree/master/2000-minimum-speed-to-arrive-on-time) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/bankptrk/leetcode_exercise/tree/master/2134-maximize-the-confusion-of-an-exam) |
 ## Backtracking
 |  |
 | ------- |
@@ -505,6 +507,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/bankptrk/leetcode_exercise/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/bankptrk/leetcode_exercise/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/bankptrk/leetcode_exercise/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/bankptrk/leetcode_exercise/tree/master/2134-maximize-the-confusion-of-an-exam) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -518,6 +521,7 @@
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/bankptrk/leetcode_exercise/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/bankptrk/leetcode_exercise/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/bankptrk/leetcode_exercise/tree/master/1833-find-the-highest-altitude) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/bankptrk/leetcode_exercise/tree/master/2134-maximize-the-confusion-of-an-exam) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
