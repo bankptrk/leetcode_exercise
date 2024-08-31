@@ -330,6 +330,7 @@
 | [0234-palindrome-linked-list](https://github.com/bankptrk/leetcode_exercise/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/bankptrk/leetcode_exercise/tree/master/0445-add-two-numbers-ii) |
 | [0735-asteroid-collision](https://github.com/bankptrk/leetcode_exercise/tree/master/0735-asteroid-collision) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/bankptrk/leetcode_exercise/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0874-backspace-string-compare](https://github.com/bankptrk/leetcode_exercise/tree/master/0874-backspace-string-compare) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/bankptrk/leetcode_exercise/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Binary Search
@@ -447,6 +448,7 @@
 | [0501-find-mode-in-binary-search-tree](https://github.com/bankptrk/leetcode_exercise/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/bankptrk/leetcode_exercise/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/bankptrk/leetcode_exercise/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/bankptrk/leetcode_exercise/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/bankptrk/leetcode_exercise/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/bankptrk/leetcode_exercise/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0904-leaf-similar-trees](https://github.com/bankptrk/leetcode_exercise/tree/master/0904-leaf-similar-trees) |
@@ -465,6 +467,7 @@
 | [0501-find-mode-in-binary-search-tree](https://github.com/bankptrk/leetcode_exercise/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/bankptrk/leetcode_exercise/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/bankptrk/leetcode_exercise/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/bankptrk/leetcode_exercise/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0904-leaf-similar-trees](https://github.com/bankptrk/leetcode_exercise/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/bankptrk/leetcode_exercise/tree/master/0975-range-sum-of-bst) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/bankptrk/leetcode_exercise/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
