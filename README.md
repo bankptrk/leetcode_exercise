@@ -97,6 +97,7 @@
 | [1798-max-number-of-k-sum-pairs](https://github.com/bankptrk/leetcode_exercise/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/bankptrk/leetcode_exercise/tree/master/1833-find-the-highest-altitude) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/bankptrk/leetcode_exercise/tree/master/2000-minimum-speed-to-arrive-on-time) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/bankptrk/leetcode_exercise/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2245-destroying-asteroids](https://github.com/bankptrk/leetcode_exercise/tree/master/2245-destroying-asteroids) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/bankptrk/leetcode_exercise/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/bankptrk/leetcode_exercise/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -376,6 +377,7 @@
 | [1396-count-servers-that-communicate](https://github.com/bankptrk/leetcode_exercise/tree/master/1396-count-servers-that-communicate) |
 | [1677-matrix-diagonal-sum](https://github.com/bankptrk/leetcode_exercise/tree/master/1677-matrix-diagonal-sum) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/bankptrk/leetcode_exercise/tree/master/1704-special-positions-in-a-binary-matrix) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/bankptrk/leetcode_exercise/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -411,6 +413,7 @@
 | [0735-asteroid-collision](https://github.com/bankptrk/leetcode_exercise/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/bankptrk/leetcode_exercise/tree/master/0874-backspace-string-compare) |
 | [1708-design-parking-system](https://github.com/bankptrk/leetcode_exercise/tree/master/1708-design-parking-system) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/bankptrk/leetcode_exercise/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/bankptrk/leetcode_exercise/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/bankptrk/leetcode_exercise/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 ## Bit Manipulation
