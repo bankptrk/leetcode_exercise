@@ -282,6 +282,7 @@
 | [0889-buddy-strings](https://github.com/bankptrk/leetcode_exercise/tree/master/0889-buddy-strings) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/bankptrk/leetcode_exercise/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/bankptrk/leetcode_exercise/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/bankptrk/leetcode_exercise/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/bankptrk/leetcode_exercise/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2887-sort-vowels-in-a-string](https://github.com/bankptrk/leetcode_exercise/tree/master/2887-sort-vowels-in-a-string) |
 ## Trie
@@ -413,6 +414,7 @@
 | [0735-asteroid-collision](https://github.com/bankptrk/leetcode_exercise/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/bankptrk/leetcode_exercise/tree/master/0874-backspace-string-compare) |
 | [1708-design-parking-system](https://github.com/bankptrk/leetcode_exercise/tree/master/1708-design-parking-system) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/bankptrk/leetcode_exercise/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/bankptrk/leetcode_exercise/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/bankptrk/leetcode_exercise/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/bankptrk/leetcode_exercise/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
